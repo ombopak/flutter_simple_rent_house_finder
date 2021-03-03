@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "781444317808",
+    "project_id": "bwacozy-dewveloper",
+    "storage_bucket": "bwacozy-dewveloper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781444317808:android:4ec7376dfba393c12caab5",
+        "android_client_info": {
+          "package_name": "com.dewveloper.bwacozy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781444317808-f0pelej695b78o5iac3sgg1433ka83k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqsm9vj-AvuD8tidcj_9KWLCByCK5cZoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781444317808-f0pelej695b78o5iac3sgg1433ka83k8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

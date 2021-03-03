@@ -9,7 +9,7 @@ class SpaceProvider extends ChangeNotifier {
 
   getRecommendedSpaces() async {
 
-    var result = await http.get('http://bwa-cozy.herokuapp.com/recommended-spaces');
+    var result = await http.get('');
 
     print(result.statusCode);
 
