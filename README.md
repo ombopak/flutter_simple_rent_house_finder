@@ -1,6 +1,6 @@
 # bwacozy_dewveloper
 
-A new Flutter project.
+Dibuat untuk menyelesaikan course dari buildwithangga.com
 
 ## Getting Started
 
